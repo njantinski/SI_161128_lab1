@@ -1,0 +1,6 @@
+C:\Users\161128\SI_161128_lab1>git log
+commit 116d3fcaeaf6bbe85794820e6a972e35f23aa04c (HEAD -> logs, origin/master, master)
+Author: unknown <nikolaj.jantinski@students.finki.ukim.mk>
+Date:   Thu Apr 4 09:36:35 2019 +0200
+
+    Initial commit
