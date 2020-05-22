@@ -4,3 +4,5 @@ Author: unknown <nikolaj.jantinski@students.finki.ukim.mk>
 Date:   Thu Apr 4 09:36:35 2019 +0200
 
     Initial commit
+
+menjam da vidam kako ke bide 123 proba
